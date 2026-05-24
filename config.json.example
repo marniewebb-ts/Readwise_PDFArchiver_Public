@@ -1,0 +1,6 @@
+{
+    "vault_root": "/Users/YOUR_USER/path/to/Obsidian/Vault",
+    "source_rel_path": "Readwise/Articles",
+    "target_rel_path": "Source_PDFs",
+    "log_filename": "!_Archiver_Log.md"
+}
